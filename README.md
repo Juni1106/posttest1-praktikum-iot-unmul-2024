@@ -1,11 +1,11 @@
 # posttest1-praktikum-iot-unmul-2024
 ## Kelompok :
-1. 22091060
-2. 22091060
+1. Juniver Veronika Lili 2209106013
+2. Muhammad Alpi Ashari 2209106017
 
 ## Pembagian Tugas:
-1. ugduhs = Pembuatan Rangkaian LED beserta Mengatur Konfigurasi WEBSERVER
-2. jxoaj =
+1. Alpi ashari = Pembuatan Rangkaian LED beserta Mengatur Konfigurasi WEBSERVER
+2. Juniver = 
 
 ## Komponen yang digunakan :
 1. Kabel Jumper
@@ -19,3 +19,6 @@
 
 ### Our Schematic
 ![Our schematic](https://github.com/Juni1106/posttest1-praktikum-iot-unmul-2024/assets/115080583/58ca6e21-e9a6-46c1-9a17-62c95affc0ff)
+
+### Link Video
+
